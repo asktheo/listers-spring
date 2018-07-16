@@ -1,0 +1,66 @@
+[{
+  "profileId": 195,
+  "firstName":	"Theo",
+  "lastName" : "Askov",
+  "yearOfBirth": 1969,
+  "initials":	"ChE",
+  "dreamBirds": "Sabinemåge og Fuglekongesanger i DK. Brun fiskeugle, stendrossel, smyrnaisfugl, albatros og kulørte værlinger i WP generelt",
+  "description": "Uddannet miljøingeniør og i dag IT-konsulent\nHar set på fugle siden 14 års alderen. Vejlesø, Vaserne og Viemose skov nær sommerhuset lagde fugle til min interesse.\nForetrækker idag forlængede weekend-ture til et eller andet flot sted. Vejlerne, Øer, Skåne og træksteder trækker mest. Twitcher sjældent og som regel kun i cykel-afstand.\nBor i København og besøgte tidligere meget Vestamager, men nu mest Nivå bugten.",
+  "family":	"Ja, bl.a. Philip Elbek",
+  "work": "Selvstændig IT-konsulent i et halvt år. Frivillig DOFbasekoordinator i Nordsj",
+  "contactInfo": {
+    "address" : "Teglgårdsvej 639 3. tv",
+    "postalCode" :"3050",
+    "postalDistrict" : "Humlebæk",
+    "country" : "Denmark",
+    "mobilephone":	"24641288",
+    "emailaddress":	"theoaskov@gmail.com"
+  },
+  "accessories":[
+    {"type":"CAR", "desc":"VW Lupo 3L"},
+    {"type":"BINOCULARS", "desc":"Zeiss 10X40B"},
+    {"type":"TELESCOPE", "desc":"Swarowski ATX 65 mm + 95 mm"},
+    {"type":"PHONE", "desc":"Samsung Galaxy S5"}
+  ]
+},{
+  "profileId": 4347,
+  "firstName":	"Philip",
+    "lastName" : "Elbek",
+    "yearOfBirth": 1996,
+    "initials":	"PhE",
+    "contactInfo": {
+      "address" : "Stærevej",
+      "postalCode" :"2400",
+      "postalDistrict" : "København NV",
+      "country" : "Denmark",
+      "emailaddress":"philipelbek@gmail.com"
+    },
+    "accessories":[
+      {"type":"BINOCULARS", "desc":"Svarowski 8.5x42"},
+      {"type":"CAMERA", "desc":"d5200 m. 70x300 nikkor lense"},
+      {"type":"PHONE", "desc":"Samsung Galaxy S6 edge"}
+    ]},
+  {
+    "profileId": 1623,
+    "firstName": "Mathias Blicher",
+    "lastName": "Bjerregård",
+    "contactInfo":{
+      "address": "Jagtvej 13B",
+      "postalCode": "3400",
+      "postalDistrict": "Hillerød",
+      "country": "Denmark",
+      "mobilephone": "42700391",
+      "emailaddress": "bjergvipstjert@hotmail.com"
+    },
+    "yearOfBirth": 1991,
+    "nickName": "Grak",
+    "initials": "MBB",
+    "work": "Studerende",
+    "dreamBirds":"Stor Stormsvale og Biæder (har begge, men vil gerne se mange flere)",
+    "accessories":[
+      {"type":"BINOCULARS", "desc":"Kite Forster 8x42"},
+      {"type":"CAMERA", "desc":"Nikon D3100"},
+      {"type":"TELESCOPE", "desc":"Swarowski ATS 80HD"}
+    ]
+  }
+]

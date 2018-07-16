@@ -1,0 +1,2 @@
+COPY data.wplist(profile_id,species_id,bird_name,latin_bird_name,rec_date,country_id,country,rec_location,latitude,longitude,rec_map)
+    FROM '/Users/theoaskov/Downloads/wplist.csv' DELIMITER ';' CSV HEADER;
