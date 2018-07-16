@@ -1,7 +1,5 @@
 package pro.theori.netfugl.repositories;
 
-
-import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import pro.theori.netfugl.users.Person;
 

@@ -1,4 +1,4 @@
-"profile id","species id","bird name","latin bird name","date","country id","country","location","latitude","longitude","map"
+"profileId","speciesId","birdName","latinBirdName","recDate","countryId","country","location","latitude","longitude","recMap"
 "195","2","Red-throated Loon","Gavia stellata","","","","","","",""
 "195","3","Black-throated Loon","Gavia arctica","","","","","","",""
 "195","4","Great Northern Loon","Gavia immer","","","","","","",""

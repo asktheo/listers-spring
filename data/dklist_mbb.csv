@@ -1,4 +1,4 @@
-"profile id","species id","bird name","latin bird name","date","location","latitude","longitude","map"
+"profileId","speciesId","birdName","latinBirdName","recDate","location","latitude","longitude","recMap"
 "1623","2","Rødstrubet Lom","Gavia stellata","2006-07-23","Grenen, Skagen","","",""
 "1623","3","Sortstrubet Lom","Gavia arctica","2007-02-11","Nivå Havn","","",""
 "1623","4","Islom","Gavia immer","2015-05-14","Grenen, Skagen","","",""

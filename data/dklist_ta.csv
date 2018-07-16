@@ -1,4 +1,4 @@
-"profile id","species id","bird name","latin bird name","date","location","latitude","longitude","map"
+"profileId","speciesId","birdName","latinBirdName","recDate","location","latitude","longitude","recMap"
 "195","2","Rødstrubet Lom","Gavia stellata","","","","",""
 "195","3","Sortstrubet Lom","Gavia arctica","","","","",""
 "195","4","Islom","Gavia immer","1987-08-15","Nykøbing Sj., Odsherred","","",""

@@ -1,4 +1,4 @@
-"profile id","species id","bird name","latin bird name","date","location","latitude","longitude","map"
+"profileId","speciesId","birdName","latinBirdName","recDate","location","latitude","longitude","recMap"
 "4347","2","Rødstrubet Lom","Gavia stellata","","","","",""
 "4347","3","Sortstrubet Lom","Gavia arctica","","","","",""
 "4347","4","Islom","Gavia immer","2015-05-14","Grenen","","",""
